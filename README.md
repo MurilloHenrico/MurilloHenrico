@@ -1,7 +1,7 @@
 # 👨🏻 Murillo Henrico
 
 
-Eu sou Murillo, tenho 19 anos e moro em São Paulo. Concluí o ensino médio com o curso técnico em eletrônica. Atualmente, estou cursando Ciência da Computação. Tenho Instagram, meu perfil é "[Mhwg](https://www.instagram.com/mhwg__/)".
+Eu sou Murillo, tenho 19 anos e moro em São Paulo. Concluí o ensino médio com o curso técnico em eletrônica. Atualmente, estou cursando Ciência da Computação.
 
 ---
 
